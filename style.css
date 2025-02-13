@@ -1,0 +1,47 @@
+
+
+body{
+
+        margin: 0;
+        padding: 0;
+        height: 30%;
+        padding-top: 29px;
+        overflow-x: hidden;
+        background-image: url(./images/background2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+    hr{
+        margin-top: 29px;
+    }
+    
+    h3{
+        margin-top: -0.5vh;
+    }
+    
+    .jogador{
+        
+        margin-top: 29px;
+        color: white;
+        font-family: Montserrat;
+        text-transform: uppercase;
+        padding: 29px;
+        background-color: rgba(0, 0, 0, 0.452);
+    }
+    
+    
+    #turn{
+        display: flex;
+        justify-content: center;
+    }
+    
+    #moves {
+       display: flex;
+       gap: 29px;
+    }
+
+
+
+
