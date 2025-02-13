@@ -1,20 +1,19 @@
-
-
 body{
 
         margin: 0;
         padding: 0;
-        height: 30%;
+        height: 100vh;
         padding-top: 29px;
         overflow-x: hidden;
         background-image: url(./images/background2.png);
         background-repeat: no-repeat;
-        background-size: cover;
+        background-position: center;
+        background-size: 125%;
         
     }
 
     hr{
-        margin-top: 29px;
+        margin-top: 15px;
     }
     
     h3{
@@ -23,11 +22,11 @@ body{
     
     .jogador{
         
-        margin-top: 29px;
+        margin-top: 15px;
         color: white;
         font-family: Montserrat;
         text-transform: uppercase;
-        padding: 29px;
+        padding: 15px;
         background-color: rgba(0, 0, 0, 0.452);
     }
     
@@ -39,7 +38,7 @@ body{
     
     #moves {
        display: flex;
-       gap: 29px;
+       gap: 15px;
     }
 
 
