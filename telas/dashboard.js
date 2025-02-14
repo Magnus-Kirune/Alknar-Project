@@ -3,7 +3,7 @@ export function alknarDashboard(){
     alknar.innerHTML = `
    <section id="turn">
     <div>
-       <img src="./images/turno.png" alt="">
+       <img src="./images/turno.png" alt="" width="140px">
     </div>
  </section>
 
@@ -12,19 +12,19 @@ export function alknarDashboard(){
           <h3>Kirune</h3>
           <section id="moves">
           <div>
-             <img src="./images/Mov.png" alt="" width="50px">
+             <img src="./images/Mov.png" alt="" width="40px">
           </div>
 
           <div>
-             <img src="./images/Mov.png" alt="" width="50px">
+             <img src="./images/Mov.png" alt="" width="40px">
           </div>
 
           <div>
-             <img src="./images/Mov.png" alt="" width="50px">
+             <img src="./images/Mov.png" alt="" width="40px">
           </div>
           
           <div>
-             <img src="./images/Saque.png" alt="" width="50px">
+             <img src="./images/Saque.png" alt="" width="40px">
           </div>
 
           
