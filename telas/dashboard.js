@@ -12,19 +12,19 @@ export function alknarDashboard(){
           <h3>Kirune</h3>
           <section id="moves">
           <div>
-             <img src="./images/Mov.png" alt="" width="40px">
+             <img src="./images/Mov.png" alt="" width="35px">
           </div>
 
           <div>
-             <img src="./images/Mov.png" alt="" width="40px">
+             <img src="./images/Mov.png" alt="" width="35px">
           </div>
 
           <div>
-             <img src="./images/Mov.png" alt="" width="40px">
+             <img src="./images/Mov.png" alt="" width="35px">
           </div>
           
           <div>
-             <img src="./images/Saque.png" alt="" width="40px">
+             <img src="./images/Saque.png" alt="" width="35px">
           </div>
 
           
