@@ -1,0 +1,11 @@
+{
+  "name": "sistema-alknar",
+  "version": "1.0.0",
+  "description": "Sistema de jogadas do RPG de mesa Alknar",
+  "main": "index.js",
+  "scripts": {
+    "test": "rodar"
+  },
+  "author": "Magno Sousa",
+  "license": "ISC"
+}
