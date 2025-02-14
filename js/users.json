@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+      {
+        "nome": "João",
+        "senha": "123456",
+        "serie": "ADM"
+      },
+      {
+        "nome": "Maria",
+        "senha": "abcdef",
+        "serie": "Colaborador"
+      }
+    ]
+  }
