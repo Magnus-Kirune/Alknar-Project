@@ -1,6 +1,4 @@
-const regent = require('fs')
-
-export function register(){
+export function registerPlayer(){
     const alknar = document.getElementById('alknar-sistem')
      alknar.innerHTML = `
     <form id="cadastroForm">

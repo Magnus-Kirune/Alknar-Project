@@ -66,6 +66,15 @@ body{
     margin-bottom: 30px;
 }
 
+#registButton{
+    color: rgb(99, 165, 223);
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 12px;
+}
+
 
 #loginTittle{
     color: white;

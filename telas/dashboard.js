@@ -36,5 +36,5 @@ export function alknarDashboard(){
          </div>
      </div>
  </section>`
-    
 }
+
