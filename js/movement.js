@@ -1,7 +1,13 @@
 export class Movement {
     //O jogador gasta uma ficha de movimento!
     static makeMovement = () => {
-
+           const movesPlayer = document.querySelectorAll('.imgMovement')
+           movesPlayer.forEach((move) => {
+              move.addEventListener('click', () => {
+                //trocar as imagensS
+              })
+           })
+           
     }
 
 
