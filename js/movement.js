@@ -4,7 +4,7 @@ export class Movement {
            const movesPlayer = document.querySelectorAll('.imgMovement')
            movesPlayer.forEach((move) => {
               move.addEventListener('click', () => {
-                //trocar as imagensS
+                //trocar as imagens dando a elas classes diferentes
               })
            })
            
@@ -14,15 +14,22 @@ export class Movement {
     //Funções apenas para o mestre da mesa!
     //Restaura os movomentos do jogador!
     static restaureMovement = () => {
-
+        const movesPlayerUsed = document.querySelector('.imgMovement')
+        movesPlayerUsed.forEach((move) => {
+          move.addEventListener('click', () => {
+            //Retornar o movimento do jogador (apenas o mestre)
+          })
+        })
     }
     //Adiciona movimentos ao jogador!
     static addMovement = () => {
-
+           const movesPlayer = document.getElementById('moves')
+           //criar a logica para adicionar movimentos extras.
+              
     }
     //Reseta o turno!!
     static resetTurn = () => {
-
+       
     }
     //Conta os turnos que estão sendo jogados!
     static contTurnOn = () => {
